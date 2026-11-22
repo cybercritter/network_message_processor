@@ -1,0 +1,17 @@
+{
+  "C_Cpp.codeAnalysis.clangTidy.enabled": false,
+  "clang-tidy.lintOnSave": false,
+  "c-cpp-flylint.run": "onSave",
+  "c-cpp-flylint.language": "c",
+  "c-cpp-flylint.standard": ["c11", "c++17"],
+  "c-cpp-flylint.includePaths": ["${workspaceFolder}/include/network_message_processor"],
+  "c-cpp-flylint.clang.enable": false,
+  "c-cpp-flylint.cppcheck.enable": true,
+  "c-cpp-flylint.cppcheck.executable": "${workspaceFolder}/.vscode/cppcheck-wrapper",
+  "c-cpp-flylint.cppcheck.language": "",
+  "c-cpp-flylint.cppcheck.addons": ["misra"],
+  "c-cpp-flylint.flexelint.enable": false,
+  "c-cpp-flylint.pclintplus.enable": false,
+  "c-cpp-flylint.flawfinder.enable": false,
+  "c-cpp-flylint.lizard.enable": false
+}

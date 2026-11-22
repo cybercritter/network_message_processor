@@ -57,5 +57,4 @@ dkms.conf
 # CMake build and coverage output
 /build/
 /build-coverage/
-/coverage.html
-/coverage.html.*
+/coverage/

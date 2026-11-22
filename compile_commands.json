@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug",
+  "command": "/usr/bin/cc  -I/home/mreid/repos/network_message_processor/include/network_message_processor -isystem /usr/include/safeclib -g -std=c11 -o CMakeFiles/network_message_processor.dir/src/message_processor.c.o -c /home/mreid/repos/network_message_processor/src/message_processor.c",
+  "file": "/home/mreid/repos/network_message_processor/src/message_processor.c",
+  "output": "CMakeFiles/network_message_processor.dir/src/message_processor.c.o"
+},
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug",
+  "command": "/usr/bin/c++  -I/home/mreid/repos/network_message_processor/include/network_message_processor -isystem /usr/include/safeclib -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/include -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest -g -o CMakeFiles/network_message_processor_tests.dir/tests/message_processor_test.cpp.o -c /home/mreid/repos/network_message_processor/tests/message_processor_test.cpp",
+  "file": "/home/mreid/repos/network_message_processor/tests/message_processor_test.cpp",
+  "output": "CMakeFiles/network_message_processor_tests.dir/tests/message_processor_test.cpp.o"
+},
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/include -I/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/include -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/include -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/include -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/include -I/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/include -isystem /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest -g -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/mreid/repos/network_message_processor/build/debug/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

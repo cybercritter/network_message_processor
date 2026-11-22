@@ -1,0 +1,11 @@
+#!/bin/sh
+
+for argument do
+    file=$argument
+done
+
+case "${file##*/}" in
+    *_test|*_test.*) exit 0 ;;
+esac
+
+exec cppcheck "$@"
