@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# CMake build and coverage output
+/build/
+/build-coverage/
+/coverage.html
+/coverage.html.*
